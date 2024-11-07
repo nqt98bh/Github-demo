@@ -1,0 +1,42 @@
+C:\Users\TGC\source\repos\demo1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\TGC\source\repos\demo1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\TGC\source\repos\demo1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\TGC\source\repos\demo1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\TGC\source\repos\demo1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\TGC\source\repos\demo1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGC\source\repos\demo1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\TGC\source\repos\demo1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\TGC\source\repos\demo1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\TGC\source\repos\demo1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\TGC\source\repos\demo1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\TGC\source\repos\demo1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\TGC\source\repos\demo1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\TGC\source\repos\demo1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:\Users\TGC\source\repos\Model 2\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\TGC\source\repos\Model 2\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\TGC\source\repos\Model 2\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\TGC\source\repos\Model 2\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\TGC\source\repos\Model 2\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\TGC\source\repos\Model 2\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGC\source\repos\Model 2\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\TGC\source\repos\Model 2\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\TGC\source\repos\Model 2\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\TGC\source\repos\Model 2\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\TGC\source\repos\Model 2\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\TGC\source\repos\Model 2\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\TGC\source\repos\Model 2\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\TGC\source\repos\Model 2\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:\Users\TGC\source\repos\Lesson 2- Exercise\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\TGC\source\repos\Lesson 2- Exercise\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\TGC\source\repos\Lesson 2- Exercise\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\TGC\source\repos\Lesson 2- Exercise\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\TGC\source\repos\Lesson 2- Exercise\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\TGC\source\repos\Lesson 2- Exercise\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGC\source\repos\Lesson 2- Exercise\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\TGC\source\repos\Lesson 2- Exercise\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\TGC\source\repos\Lesson 2- Exercise\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\TGC\source\repos\Lesson 2- Exercise\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\TGC\source\repos\Lesson 2- Exercise\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\TGC\source\repos\Lesson 2- Exercise\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\TGC\source\repos\Lesson 2- Exercise\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\TGC\source\repos\Lesson 2- Exercise\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
